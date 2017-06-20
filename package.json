@@ -1,7 +1,7 @@
 {
   "name": "firebase-export",
   "description": "Firebase export helper utility for exporting excluded JSON from Firebase.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "JSONStream": "^1.3.1",
     "dot-wild": "^2.2.2",
