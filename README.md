@@ -30,5 +30,5 @@ Options:
 # Example 
 
 ```
-firebase-export --database_url https://test.firebaseio-demo.com --firebase_secret '1234' --exclude 'settings/*, users/*/settings
+$ firebase-export --database_url https://test.firebaseio-demo.com --firebase_secret '1234' --exclude 'settings/*, users/*/settings
 ```
